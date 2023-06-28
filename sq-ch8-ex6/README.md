@@ -1,0 +1,1 @@
+Using GET and POST requests. Passing the model class directly to the controller.

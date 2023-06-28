@@ -1,0 +1,1 @@
+Creating two beans without wiring.

@@ -1,0 +1,1 @@
+Calling a REST endpoint using RestTemplate.

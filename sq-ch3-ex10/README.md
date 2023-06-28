@@ -1,0 +1,1 @@
+Using qualifier with ambiguity beans.

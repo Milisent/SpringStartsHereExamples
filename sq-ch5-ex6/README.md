@@ -1,0 +1,1 @@
+Declaring beans with a prototype scope with stereotype annotations.

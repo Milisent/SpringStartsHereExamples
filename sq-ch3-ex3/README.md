@@ -1,0 +1,1 @@
+Creating and wiring two beans via method argument.

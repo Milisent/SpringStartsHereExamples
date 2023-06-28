@@ -1,0 +1,1 @@
+Using postconstruct stereotype annotation.

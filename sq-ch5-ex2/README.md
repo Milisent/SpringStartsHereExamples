@@ -1,0 +1,1 @@
+Injecting singleton scope bean in several beans.

@@ -1,0 +1,1 @@
+Aspects with custom annotations. IMPORTANT: annotation must be in the same package as the aspect class.

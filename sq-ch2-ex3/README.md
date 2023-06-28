@@ -1,0 +1,1 @@
+Adding objects of the same type to the spring context.

@@ -1,0 +1,1 @@
+Defining the dependency with @Primary annotation.

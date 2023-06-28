@@ -1,0 +1,1 @@
+Programmatically adding beans to the context.

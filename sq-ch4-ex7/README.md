@@ -1,0 +1,1 @@
+@Service, @Repository annotations example.

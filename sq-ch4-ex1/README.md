@@ -1,0 +1,1 @@
+Using DI via interfaces without Spring.

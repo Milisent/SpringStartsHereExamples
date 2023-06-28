@@ -1,0 +1,1 @@
+Adding objects to the spring context using stereotype annotation.
